@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JavaStdinAndStdoutII",
+            "request": "launch",
+            "mainClass": "javafiles.JavaStdinAndStdoutII",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaStdinAndStdoutI",
+            "request": "launch",
+            "mainClass": "javafiles.JavaStdinAndStdoutI",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CleanTerminalFile",
+            "request": "launch",
+            "mainClass": "javafiles.CleanTerminalFile",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
             "name": "Launch WelcomeToJava",
             "request": "launch",
             "mainClass": "javafiles.WelcomeToJava",
