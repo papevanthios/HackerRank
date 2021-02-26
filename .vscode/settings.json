@@ -1,0 +1,18 @@
+{
+    "java.templates.fileHeader": [
+        
+
+
+        
+    ],
+    "java.templates.typeComment": [
+    
+        "/**",
+        "* The ${file_name} program implemented in Java for learning purposes.",
+        "*",
+        "* @author Evanthios Papadopoulos",
+        "* @since ${date}",
+        "*/ \n"
+
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch WelcomeToJava",
+            "request": "launch",
+            "mainClass": "javafiles.WelcomeToJava",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch newFile",
+            "request": "launch",
+            "mainClass": "javaFiles.newFile",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch WelcomeToJava",
+            "request": "launch",
+            "mainClass": "java.WelcomeToJava",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch challenge1",
+            "request": "launch",
+            "mainClass": "Challenges.challenge1",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch minichallenge",
+            "request": "launch",
+            "mainClass": "Challenges.minichallenge",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarkingDog",
+            "request": "launch",
+            "mainClass": "CodingExercises.BarkingDog",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalComparator",
+            "request": "launch",
+            "mainClass": "CodingExercises.DecimalComparator",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualSumChecker",
+            "request": "launch",
+            "mainClass": "CodingExercises.EqualSumChecker",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeneralFile",
+            "request": "launch",
+            "mainClass": "CodingExercises.GeneralFile",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYeatCalculator",
+            "request": "launch",
+            "mainClass": "CodingExercises.LeapYeatCalculator",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MegaBytesConverter",
+            "request": "launch",
+            "mainClass": "CodingExercises.MegaBytesConverter",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpeedConverter",
+            "request": "launch",
+            "mainClass": "CodingExercises.SpeedConverter",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TeenNuberChecker",
+            "request": "launch",
+            "mainClass": "CodingExercises.TeenNuberChecker",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ByteShortIntLong",
+            "request": "launch",
+            "mainClass": "Section3.ByteShortIntLong",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Section3.Hello",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "Section3.HelloWorld",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch charandboolean",
+            "request": "launch",
+            "mainClass": "Section3.charandboolean",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch operatorsAndExpressions",
+            "request": "launch",
+            "mainClass": "Section3.operatorsAndExpressions",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringChapter",
+            "request": "launch",
+            "mainClass": "Section3.stringChapter",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestingSomething",
+            "request": "launch",
+            "mainClass": "Section4.TestingSomething",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch keywords",
+            "request": "launch",
+            "mainClass": "Section4.keywords",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch methods",
+            "request": "launch",
+            "mainClass": "Section4.methods",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch newChallenge",
+            "request": "launch",
+            "mainClass": "Section4.newChallenge",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch generalFile",
+            "request": "launch",
+            "mainClass": "generalFile",
+            "projectName": "UdemyJavaLearning_f9e6ac4d"
+        }
+    ]
+}
