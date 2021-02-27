@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JavaEndOfFile",
+            "request": "launch",
+            "mainClass": "javafiles.JavaEndOfFile",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaOutputFormatting",
+            "request": "launch",
+            "mainClass": "javafiles.JavaOutputFormatting",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaIfElse",
+            "request": "launch",
+            "mainClass": "javafiles.JavaIfElse",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaStringsIntroduction",
+            "request": "launch",
+            "mainClass": "javafiles.JavaStringsIntroduction",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
             "name": "Launch JavaStdinAndStdoutII",
             "request": "launch",
             "mainClass": "javafiles.JavaStdinAndStdoutII",
