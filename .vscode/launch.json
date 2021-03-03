@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JavaLoopsII",
+            "request": "launch",
+            "mainClass": "javafiles.JavaLoopsII",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLoopsI",
+            "request": "launch",
+            "mainClass": "javafiles.JavaLoopsI",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
             "name": "Launch CleanTerminalFile",
             "request": "launch",
             "mainClass": "InterviewPreparationKit.CleanTerminalFile",
