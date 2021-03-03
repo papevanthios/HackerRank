@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CleanTerminalFile",
+            "request": "launch",
+            "mainClass": "InterviewPreparationKit.CleanTerminalFile",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CleanTerminalFile",
+            "request": "launch",
+            "mainClass": "ProblemSolving.DataStructures.CleanTerminalFile",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolveMeFirst",
+            "request": "launch",
+            "mainClass": "ProblemSolving.Algorithms.SolveMeFirst",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CleanTerminalFile",
+            "request": "launch",
+            "mainClass": "ProblemSolving.Algorithms.CleanTerminalFile",
+            "projectName": "HackerRank_4069dfe7"
+        },
+        {
+            "type": "java",
             "name": "Launch JavaEndOfFile",
             "request": "launch",
             "mainClass": "javafiles.JavaEndOfFile",
