@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class JavaLoopsII {
     public static void main(String []argh){
-        CleanTerminalFile.main(args);
+       // CleanTerminalFile.main(args);
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
         for(int i=0;i<t;i++){

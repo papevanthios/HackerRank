@@ -11,7 +11,7 @@ import java.io.*;
 public class JavaDatabases {
     public static void main(String []argh)
     {
-        CleanTerminalFile.main(args);
+        //CleanTerminalFile.main(args);
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
 
