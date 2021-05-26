@@ -10,7 +10,7 @@ import java.util.*;
 
 public class JavaStringsIntroduction {
     public static void main(String[] args) {
-        CleanTerminalFile.main(args);
+       // CleanTerminalFile.main(args);
 
         Scanner sc=new Scanner(System.in);
         String A=sc.next();

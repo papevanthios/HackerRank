@@ -9,7 +9,8 @@ package ProblemSolving.Algorithms;
 
 public class CleanTerminalFile {
     public static void main(String[] args) {
-        System.out.print("\033\143");
+//        System.out.print("\033\143");
+        System.out.println("hi");
 
 
     }
